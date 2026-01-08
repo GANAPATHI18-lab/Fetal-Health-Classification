@@ -75,3 +75,10 @@ The application was deployed locally and exposed publicly using **ngrok**.
 ```bash
 pip install -r app/requirements.txt
 streamlit run app/app.py
+
+## 🔗 Live Streamlit Application
+
+The Streamlit app was deployed locally and exposed using **ngrok**.
+
+👉 Live Demo:  https://preantepenultimate-depressively-clarinda.ngrok-free.dev/
+
